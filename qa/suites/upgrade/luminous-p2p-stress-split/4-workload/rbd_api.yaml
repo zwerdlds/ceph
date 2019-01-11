@@ -3,7 +3,8 @@ meta:
    librbd C and C++ api tests
 stress-tasks:
 - workunit:
-     branch: luminous
+     tag: v12.2.9
+     #branch: luminous
      clients:
         client.0:
            - rbd/test_librbd.sh

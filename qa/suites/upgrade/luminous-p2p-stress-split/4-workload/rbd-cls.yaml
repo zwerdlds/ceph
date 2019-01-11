@@ -3,7 +3,8 @@ meta:
    run basic cls tests for rbd
 stress-tasks:
 - workunit:
-    branch: luminous
+    tag: v12.2.9
+    #branch: luminous
     clients:
       client.0:
         - cls/test_cls_rbd.sh
