@@ -81,7 +81,7 @@ various aspects of your Ceph cluster:
   counters. Display and manage (add/edit/delete) object gateway users and their
   details (e.g. quotas) as well as the users' buckets and their details (e.g.
   owner, quotas).
-* **NFS**: Manage NFS exports of CephFS filesystems and RGW S3 buckets via NFS Ganesha.```
+* **NFS**: Manage NFS exports of CephFS filesystems and RGW S3 buckets via NFS Ganesha.
 
 Enabling
 --------
